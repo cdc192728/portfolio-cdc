@@ -9,7 +9,7 @@ const Portfolio = () => {
     <div className="p-4 max-w-4xl -my-40 mx-auto" id="portfolio">
       <Title title="Portafolio" subtitle="Trabajos realizados" />
 
-      <div className="grid md:grid-cols-3 gap-14 mt-4">
+      <div className="grid md:grid-cols-2 gap-14 mt-4">
         <div>
           <h3 className="text-xl mb-4"> {"Video Juegos (Ninja Dragon)"} </h3>
           <Image
