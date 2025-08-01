@@ -65,6 +65,16 @@ const Portfolio = () => {
             >
               Estuario Pez
             </Link>
+
+            <Link
+              className={buttonVariants()}
+              href={
+                "https://drive.google.com/drive/folders/1a28qO_aV7vw0E_SpPb0mwY1IRbH96xYq?usp=sharing"
+              }
+              target="_blank"
+            >
+              Punto de venta
+            </Link>
           </div>
         </div>
 
